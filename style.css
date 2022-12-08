@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    justify-content: center;
+    font-family:sans-serif;
+    font-size: 18px;
+   
+}
+
+.container{
+    font-family: sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: black;
+    justify-content: space-between;
+    width:100%;
+    display:inline-block;
+}
+
+.logo{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+
+}
+
+.name{
+    margin-left:-165px;
+}
+
+.subname{
+    margin-left:128px;
+    margin-top: -24px;
+}
+
+.column{
+    margin-left:-70px;
+}
+.subcolumn{
+    margin-left: 130px;
+    margin-top: -24px;
+}
+.letter{
+    margin-left: -220px;
+}
+.subletter{
+    margin-left: 135px;
+    margin-top: -24px;
+}
+
+.menu{
+    margin-left:-160px;
+}
+.button{
+    margin-left:30px;
+    margin-top:-21px;
+}
+
+.submenu{
+    margin-top: 10px;
+    margin-left:53px;
+}
+
+.color{
+    margin-left: -260px;
+}
+
+.layout{
+    margin-left:80px;
+    margin-top: -21px;
+}
+
+.border{
+    margin-left: 50px;
+}
+.margin{
+    margin-left:-215px;
+}
+
+.order{
+    margin-top: -20px;
+    margin-left: 50px;
+}
